@@ -1,0 +1,14 @@
+.search-bar {
+    margin: 20px;
+    text-align: center;
+}
+
+.search-bar input {
+    width: 75%;
+    text-align: center;
+}
+
+ul, li {
+    list-style: none;
+    margin: 20px;
+}
